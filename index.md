@@ -13,4 +13,4 @@ College Bound Research Presentation and Discussion
 
 ***
 
-03/30/2018 | [Agenda]()
+03/30/2018 | [Agenda](https://github.com/scools/Meetings/blob/master/2018-03-30%20Network%20Agenda.docx.pdf)
