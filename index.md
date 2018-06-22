@@ -11,7 +11,7 @@
 ***
 
 #### 05/25/2018 | [Agenda](https://github.com/scools/Meetings/blob/master/2018-05-25%20Network%20Agenda.pdf)
-The group discussed **racial equity in research**, focusing on the Annie E. Casey Foundation resources, sharing common challenges and other tools teams use to integrate a racial equity lens in analysis and research. Afterwards the group discussed research, tracking local student outcomes in **Community Colleges** and methodologies in demography.
+The group discussed **racial equity in research**, focusing on the [Annie E. Casey Foundation resources](https://scools.github.io/Resources/), sharing common challenges and other tools teams use to integrate a racial equity lens in analysis and research. Afterwards the group discussed research, tracking local student outcomes in **Community Colleges** and methodologies in demography.
 
 ***
 
