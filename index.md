@@ -6,7 +6,7 @@
 <br><br>
 </p>
 
-#### 07/19/2018 | *in-prep*
+#### 07/19/2018 | [Agenda](https://github.com/scools/Meetings/blob/master/2018-07-19%20Network%20Agenda.pdf)
 THe group will discuss challenges and opportunities in university-district and -CBO **research partnerships** as well as helpful **professional development** opportunities to improve the content on this network site. There will be time to share current projects, updates, resources and generate topics for upcoming meetings.
 
 ***
