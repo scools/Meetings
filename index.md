@@ -6,8 +6,13 @@
 <br><br>
 </p>
 
+#### 09/20/18 |  
+This shorter meeting focused on tips for **staying current with the literature** ([Social Science Blog](http://blogs.lse.ac.uk/impactofsocialsciences/2018/05/18/how-to-keep-up-to-date-with-the-literature-but-avoid-information-overload/)) the use of open source data ([Google Open Source](https://opensource.googleblog.com/2018/07/introducing-data-transfer-project.html?m=1), [Data Storage](http://blogs.lse.ac.uk/impactofsocialsciences/2018/09/07/research-data-should-be-available-long-termbut-who-is-going-to-pay/)) and cultivating a research portfolio.
+
+***
+
 #### 07/19/2018 | [Agenda](https://github.com/scools/Meetings/blob/master/2018-07-19%20Network%20Agenda.pdf)
-THe group will discuss challenges and opportunities in university-district and -CBO **research partnerships** as well as helpful **professional development** opportunities to improve the content on this network site. There will be time to share current projects, updates, resources and generate topics for upcoming meetings.
+The group discussed challenges and opportunities in university-district and -CBO **research partnerships** as well as helpful **professional development** opportunities to improve the content on this network site. There will be time to share current projects, updates, resources and generate topics for upcoming meetings.
 
 ***
 
