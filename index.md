@@ -7,7 +7,7 @@
 </p>
 
 #### 09/20/18 |  
-This shorter meeting focused on [tips](http://blogs.lse.ac.uk/impactofsocialsciences/2018/05/18/how-to-keep-up-to-date-with-the-literature-but-avoid-information-overload/) for **staying current with the literature**, the use of open source data ([Google Open Source](https://opensource.googleblog.com/2018/07/introducing-data-transfer-project.html?m=1), [Data Storage](http://blogs.lse.ac.uk/impactofsocialsciences/2018/09/07/research-data-should-be-available-long-termbut-who-is-going-to-pay/)) and cultivating a research portfolio.
+This shorter meeting focused on [tips](http://blogs.lse.ac.uk/impactofsocialsciences/2018/05/18/how-to-keep-up-to-date-with-the-literature-but-avoid-information-overload/) for **staying current with the literature**, the use of open source data (e.g.,[Google Open Source](https://opensource.googleblog.com/2018/07/introducing-data-transfer-project.html?m=1), [Data Storage](http://blogs.lse.ac.uk/impactofsocialsciences/2018/09/07/research-data-should-be-available-long-termbut-who-is-going-to-pay/)) and cultivating a research portfolio.
 
 ***
 
