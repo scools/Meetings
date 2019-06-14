@@ -6,7 +6,7 @@
 <br><br>
 </p>
 
-#### 06/20/19 | 
+#### 06/20/19 | Planning in-prep
 
 ***
 
@@ -20,7 +20,7 @@ The group dicussed discussed team collaboration and [version-control tools](http
 
 ***
 
-#### 09/20/18
+#### 11/15/18
 **Holiday Happy Hour at Super Six! Thanks for joining us!**
 
 ***
