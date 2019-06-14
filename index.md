@@ -11,17 +11,17 @@
 ***
 
 #### 02/26/19 
-This meeting we merged our normally scheduled meeting with a discussion CCER is having on research collaboration with UW College of Education. We discussed CCER’s longitudinal database, joint projects, cross-sector data sharing and an few projects we’re hoping to partner on and launch in the next year. While this discussion was focused on university partnerships, we’d love to collaborate with partners from all sectors and greatly benefit the group's insights as we build out this area work.
+This meeting we merged our normally scheduled meeting with a discussion [CCER](https://roadmapproject.org/about-ccer/) is having on **research collaboration** with UW College of Education. We discussed CCER’s [longitudinal database](https://roadmapproject.org/data-research/), joint projects, **cross-sector data sharing** and an few projects we’re hoping to partner on and launch in the next year. While this discussion was focused on university partnerships, we’d love to collaborate with partners from all sectors and greatly benefit the group's insights as we build out this area work.
 
 ***
 
 #### 01/17/19
-The group dicussed discussed team collaboration and [version-control tools](https://docs.google.com/presentation/d/1SAg0nllL9BR8O2Ggf6jiGwdzDK7wHVD-4tMnY-3Y3Ls/edit?usp=sharing) to improve code tracking and replicability. The group also discussed current projects and research overlaps.
+The group dicussed discussed team collaboration and [version-control tools](https://docs.google.com/presentation/d/1SAg0nllL9BR8O2Ggf6jiGwdzDK7wHVD-4tMnY-3Y3Ls/edit?usp=sharing) to improve **code tracking and replicability**. The group also discussed current projects and research overlaps.
 
 ***
 
 #### 09/20/18
-Holiday Happy Hour! Thanks for joining us and celebrating!
+**Holiday Happy Hour at Super Six! Thanks for joining us!**
 
 ***
 
