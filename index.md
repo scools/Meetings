@@ -6,7 +6,8 @@
 <br><br>
 </p>
 
-#### 06/20/19 | Planning in-prep
+#### 06/20/19
+This meeing we’ll hear from a network member about her recent study on rigorous coursetaking in high school and have an discussion about methods and implications. We’ll also discuss is Quantitative Critical Race Theory (“QuantCrit”) and share frameworks that work to challenge our assumptions about secondary data from a social justice lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf)) and share what we’re each working on to further our collaboration and learning.
 
 ***
 
