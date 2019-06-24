@@ -42,7 +42,7 @@ The group discussed **racial equity in research**, focusing on the [Annie E. Cas
 ***
 
 #### 04/27/2018 | [Agenda](https://github.com/scools/Meetings/blob/master/2018-04-27%20Network%20Agenda.docx.pdf)
-The network discussed research on **College Bound**, focusing on research questions, analysis plans matched to questions, WA state data quality challenges and implications to the findings.
+The network discussed research on **College Bound**, focusing on research questions, analysis plans matched to questions, WA state data quality challenges and implications to the findings. We also went out for happy hour! YAY!
 
 ***
 
