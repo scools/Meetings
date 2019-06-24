@@ -7,7 +7,7 @@
 </p>
 
 #### 06/20/19
-This meeing we’ll hear from a network member about her recent study on **rigorous coursetaking in high school on college success** and have an discussion about methods and implications. We’ll also discuss is **Quantitative Critical Race Theory (“QuantCrit”)** and share frameworks that work to challenge our assumptions about secondary data from a social justice lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf)) and share what we’re each working on to further our collaboration and learning.
+We learned how **dual credit coursetaking in high school impacts college enrollment** from a network member's recent study and discussed methods and implications. We didn't get to the planned discussion on **Quantitative Critical Race Theory (“QuantCrit”)** and  frameworks that work to challenge our assumptions about secondary data from a social justice lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf)) but check out these articles and we can address them at a future meeting if folks are interested.
 
 ***
 
@@ -42,7 +42,7 @@ The group discussed **racial equity in research**, focusing on the [Annie E. Cas
 ***
 
 #### 04/27/2018 | [Agenda](https://github.com/scools/Meetings/blob/master/2018-04-27%20Network%20Agenda.docx.pdf)
-The network discussed research on **College Bound**, focusing on research questions, analysis plans matched to questions, WA state data quality challenges and implications to the findings. We also went out for happy hour! YAY!
+We discussed network member's research on the longitudinal outcomes of **College Bound** sign-ups on later education outcomes, focusing on research questions, analysis plans matched to questions, WA state data quality challenges and implications to the findings. We also went out for happy hour! YAY!
 
 ***
 
