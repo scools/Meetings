@@ -7,7 +7,7 @@
 </p>
 
 #### September 2019
-TBD, email me if you'd like to present: scooley@ccedresults.org
+Planning in progress, email me if you'd like to present or have ideas for this or future meetings: scooley@ccedresults.org
 
 ***
 
