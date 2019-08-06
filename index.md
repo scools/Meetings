@@ -6,6 +6,11 @@
 <br><br>
 </p>
 
+#### September 2019
+TBD, email me if you'd like to present: scooley@ccedresults.org
+
+***
+
 #### 06/20/19
 We learned how **dual credit coursetaking in high school impacts college enrollment** from a network member's recent study and discussed methods and implications. We didn't get to the planned discussion on **Quantitative Critical Race Theory (“QuantCrit”)** and  frameworks that work to challenge our assumptions about secondary data from a social justice lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf)) but check out these articles and we can address them at a future meeting if folks are interested.
 
