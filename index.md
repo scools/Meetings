@@ -6,8 +6,23 @@
 <br><br>
 </p>
 
-#### September 2019
+#### January 2021
 Planning in progress, email me if you'd like to present or have ideas for this or future meetings: scooley@ccedresults.org
+
+***
+
+#### 11/06/20
+During this meeting the group will again hold intentional space for discussions of healing and hope. If time, we'll also talk about the role of research in a mis-information era and what drives us in our own personal and professional work.
+
+***
+
+#### 07/16/20
+Since the group last met we have seen a national wave of awareness and organizing around the state of racial violence and anti-black racism in our society. This meeting was an open-form discussion asking 1) How are you shifting your work personally or professionally to lead with race first that goes beyond “performative allyship”? and 2) How is this an opportunity to challenge white dominant values of professionalism and productivity? The network also launched a slack channel where members can continue dicussions and share resources.
+
+***
+
+#### 05/21/20
+The group discussed racial equity in education in the context of COVID-19 and shared resources from conferences that have since gone virtual. We also discussed measurement and community [resources](https://roadmapproject.org/road-map-project-covid-19-resources/) available to families and students.
 
 ***
 
