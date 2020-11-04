@@ -15,13 +15,13 @@ During this meeting the group will again hold intentional space for discussions 
 
 ***
 
-#### 07/16/20
+#### 07/16/20 | [Slides](https://docs.google.com/presentation/d/1vaJmWSgXPk44S8VJDpKinaEwY4bDgP5-KgVhKiQjMf0/edit?usp=sharing)
 Since the group last met we have seen a national wave of awareness and organizing around the state of racial violence and anti-black racism in our society. This meeting was an open-form discussion asking 1) How are you shifting your work personally or professionally to lead with race first that goes beyond “performative allyship”? and 2) How is this an opportunity to challenge white dominant values of professionalism and productivity? The network also launched a slack channel where members can continue dicussions and share resources.
 
 ***
 
 #### 05/21/20 | [Slides](https://docs.google.com/presentation/d/1j1vj_3ZAg3GcmJarvUUzUMBmHNJU7mJ684LziH2Yp3w/edit?usp=sharing)
-The group discussed racial equity in education in the context of COVID-19 and shared resources from conferences that have since gone virtual. We also discussed measurement and community [resources](https://roadmapproject.org/road-map-project-covid-19-resources/) available to families and students.
+The group discussed racial equity in education in the context of COVID-19 and shared resources from conferences that have since gone virtual. We also discussed measurement in these times of virtual learning as well as community [resources](https://roadmapproject.org/road-map-project-covid-19-resources/) available to families and students.
 
 ***
 
@@ -31,7 +31,7 @@ During this meeting the group discussed school disengagement and navigation supp
 ***
 
 #### 06/20/19
-We learned how **dual credit coursetaking in high school impacts college enrollment** from a network member's recent study and discussed methods and implications. We didn't get to the planned discussion on **Quantitative Critical Race Theory (“QuantCrit”)** and  frameworks that work to challenge our assumptions about secondary data from a social justice lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf)) but check out these articles and we can address them at a future meeting if folks are interested.
+We learned how **dual credit coursetaking in high school impacts college enrollment** from a network member's recent study and discussed methods and implications. We also started our discussion of **Quantitative Critical Race Theory (“QuantCrit”)** and frameworks that work to challenge our assumptions about secondary data from a social justice lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf)). We'll continue having conversations about anti-racist methods at future meetings. In the meantime, reach out with ideas and, if interested, check out these articles!
 
 ***
 
