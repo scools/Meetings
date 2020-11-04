@@ -20,8 +20,13 @@ Since the group last met we have seen a national wave of awareness and organizin
 
 ***
 
-#### 05/21/20
+#### 05/21/20 | [Slides](https://docs.google.com/presentation/d/1j1vj_3ZAg3GcmJarvUUzUMBmHNJU7mJ684LziH2Yp3w/edit?usp=sharing)
 The group discussed racial equity in education in the context of COVID-19 and shared resources from conferences that have since gone virtual. We also discussed measurement and community [resources](https://roadmapproject.org/road-map-project-covid-19-resources/) available to families and students.
+
+***
+
+#### 09/20/19 | [Slides](https://docs.google.com/presentation/d/14gqNDG8BoSIBwE5asQK_QsvbIyqS6Qw6BOWur1gIkA8/edit?usp=sharing)
+During this meeting the group discussed school disengagement and navigation support among formerly disconnected youth, a collaborative qualitative study (report)[https://roadmapproject.org/resources/creating-paths-for-change-understanding-student-disengagement-and-reengagement/]. We also discussed research communication and continued our conversation about “Quant Crit” and approaches that challenge white-norms in research.
 
 ***
 
