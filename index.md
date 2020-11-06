@@ -26,7 +26,7 @@ The group discussed **racial equity in education in the context of COVID-19** an
 ***
 
 #### Sept. 20, 2019 | [Slides](https://docs.google.com/presentation/d/14gqNDG8BoSIBwE5asQK_QsvbIyqS6Qw6BOWur1gIkA8/edit?usp=sharing)
-During this meeting the group discussed **school disengagement** and postsecondary navigation support among formerly disconnected youth, a collaborative qualitative study (report)[https://roadmapproject.org/resources/creating-paths-for-change-understanding-student-disengagement-and-reengagement/]. We also discussed **research communication** and continued our conversation about “Quant Crit” and approaches that challenge white-norms in research.
+During this meeting the group discussed **school disengagement** and postsecondary navigation support among formerly disconnected youth, a collaborative qualitative study [report](https://roadmapproject.org/resources/creating-paths-for-change-understanding-student-disengagement-and-reengagement/). We also discussed **research communication** and continued our conversation about “Quant Crit” and approaches that challenge white-norms in research.
 
 ***
 
@@ -60,7 +60,7 @@ The group discussed challenges and opportunities in university-district and -CBO
 
 ***
 
-#### May 25, 2018 | [Agenda](https://github.com/scools/Meetings/blob/master/2018-05-25%20Network%20Agenda.pdf)
+#### May 25, 2018 | [Agenda](https://github.com/scools/Meetings/blob/master/2018-05-25%20Network%20Agenda.pdf) | [Slides](https://docs.google.com/presentation/d/1hJAQV3FjdhM_45YuuhUXY3st8uGB2RVtcbY-kIxJSBc/edit?usp=sharing)
 The group discussed **racial equity in research**, focusing on the [Annie E. Casey Foundation resources](https://scools.github.io/Resources/), sharing common challenges and other tools teams use to integrate a racial equity lens in analysis and research. Afterwards the group discussed research, tracking local student outcomes in **Community Colleges** and methodologies in demography.
 
 ***
