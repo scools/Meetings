@@ -6,7 +6,8 @@
 <br><br>
 </p>
 
-##### *email me if you'd like to present or have ideas for this or future meetings: scooley@ccedresults.org*
+##### Jun. 25, 2021
+The group is reconvening to host a panel of education researchers on their career paths collectively spanning multiple sectors (public, private, non-profit, university and philanthropy). Panelists will reflect on their journeys, the local landscape, challenges researchers of color face navigating white spaces and innovation in the areas of data science, quantitative and qualitative research as well as community- and relationship-centered approaches for impact.
 
 ***
 
@@ -16,7 +17,7 @@ During this meeting the group will again hold intentional space for discussions 
 ***
 
 #### Jul. 16, 2020 | [Slides](https://docs.google.com/presentation/d/1vaJmWSgXPk44S8VJDpKinaEwY4bDgP5-KgVhKiQjMf0/edit?usp=sharing)
-Since the group last met we have seen a national wave of awareness and organizing around the state of racial violence and **anti-black racism in our society**. This meeting was an open-form discussion asking 1) How are you **shifting your work** to lead with race first that goes beyond “performative allyship”? and 2) How is this an opportunity to **challenge white dominant values** of professionalism and productivity? The network also launched a slack channel where members can continue dicussions and share resources.
+Since the group met last, we collectively experienced a national wave of awareness and organizing around the state of racial violence and **anti-black racism in our society**. This meeting was an open-form discussion asking 1) How are you **shifting your work** to lead with liberation and partner in ways that go beyond “performative allyship”? and 2) How is this an opportunity to **challenge white dominant values** of professionalism? The network also launched a slack channel where members can continue discussions and share resources.
 
 ***
 
@@ -31,17 +32,17 @@ During this meeting the group discussed **school disengagement** and postseconda
 ***
 
 #### Jun. 20, 2019
-We learned how **dual credit coursetaking in high school impacts college enrollment** from a network member's recent study and discussed methods and implications. We also started our discussion of **Quantitative Critical Race Theory (“QuantCrit”)** and frameworks that work to challenge our assumptions about secondary data from a social justice lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf)). We'll continue having conversations about anti-racist methods at future meetings. In the meantime, reach out with ideas and, if interested, check out these articles!
+We learned how **dual credit course taking in high school impacts college enrollment** from a network member's recent study and discussed methods and implications. We also started our discussion of **Quantitative Critical Race Theory (“QuantCrit”)** and frameworks that work to challenge our assumptions about secondary data from a social justice lens ([Garcia et al., 2018](https://github.com/scools/Resources/blob/master/Garcia%20et%20al%202018%20QuantCrit.pdf); [Gillborn et al., 2018](https://github.com/scools/Resources/blob/master/Gillborn%20et%20al%202018%20QuantCrit.pdf)). We'll continue having conversations about anti-racist methods at future meetings. In the meantime, reach out with ideas and, if interested, check out these articles!
 
 ***
 
 #### Feb. 26, 2019 
-This meeting we merged our normally scheduled meeting with a discussion [CCER](https://roadmapproject.org/about-ccer/) is having on **research collaboration** with UW College of Education. We discussed CCER’s [longitudinal database](https://roadmapproject.org/data-research/), joint projects, **cross-sector data sharing** and an few projects we’re hoping to partner on and launch in the next year. While this discussion was focused on university partnerships, we’d love to collaborate with partners from all sectors and greatly benefit the group's insights as we build out this area work.
+During this meeting we merged our normally scheduled meeting with a discussion [CCER](https://roadmapproject.org/about-ccer/) is having on **research collaboration** with UW College of Education. We discussed CCER’s [longitudinal database](https://roadmapproject.org/data-research/), joint projects, **cross-sector data sharing** and an few projects we’re hoping to partner on and launch in the next year. While this discussion was focused on university partnerships, we’d love to collaborate with partners from all sectors and greatly benefit the group's insights as we build out this area work.
 
 ***
 
 #### Jan. 17, 2019
-The group dicussed discussed team collaboration and [version-control tools](https://docs.google.com/presentation/d/1SAg0nllL9BR8O2Ggf6jiGwdzDK7wHVD-4tMnY-3Y3Ls/edit?usp=sharing) to improve **code tracking and replicability**. The group also discussed current projects and research overlaps.
+The group discussed team collaboration and [version-control tools](https://docs.google.com/presentation/d/1SAg0nllL9BR8O2Ggf6jiGwdzDK7wHVD-4tMnY-3Y3Ls/edit?usp=sharing) to improve **code tracking and replicability**. The group also engaged on current projects and areas for potential partnership.
 
 ***
 
