@@ -6,7 +6,7 @@
 <br><br>
 </p>
 
-##### Jun. 25, 2021
+#### Jun. 25, 2021
 The group is reconvening to host a panel of education researchers on their career paths collectively spanning multiple sectors (public, private, non-profit, university and philanthropy). Panelists will reflect on their journeys, the local landscape, challenges researchers of color face navigating white spaces and innovation in the areas of data science, quantitative and qualitative research as well as community- and relationship-centered approaches for impact.
 
 ***
