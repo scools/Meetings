@@ -6,8 +6,8 @@
 <br><br>
 </p>
 
-#### Jun. 25, 2021
-The group is reconvening to host a panel of education researchers on their career paths collectively spanning multiple sectors (public, private, non-profit, university and philanthropy). Panelists will reflect on their journeys, the local landscape, challenges researchers of color face navigating white spaces and innovation in the areas of data science, quantitative and qualitative research as well as community- and relationship-centered approaches for impact.
+#### Jun. 25, 2021 | [Flyer](https://github.com/scools/Home/blob/master/Draft%20Panel%20Flyer.pdf)
+The group is reconvening to host a panel discussion with local education researchers on their career paths collectively spanning multiple sectors (public, private, non-profit, and philanthropy). Panelists will reflect on their journeys, the local landscape, challenges researchers of color face navigating white spaces, innovation in the areas of data science and quantitative research as well as relationship-centered approaches for impact. 
 
 ***
 
