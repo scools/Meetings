@@ -6,7 +6,7 @@
 <br><br>
 </p>
 
-#### Jun. 25, 2021 | [Flyer](https://github.com/scools/Home/blob/master/Draft%20Panel%20Flyer.pdf)
+#### Jun. 25, 2021 | [Flyer](https://github.com/scools/Home/blob/master/Draft%20Panel%20Flyer.pdf) | [Add to Calendar](https://teams.microsoft.com/registration/WNEx1HRgMkiHg1Hqb23SJw,rUrtpLmn906a-CLPv0sEwQ,9EUf--Zjs0aeIsxSFrdpUQ,_G2zRPJbaEKbwDTfJY7-5A,ohDfa-Ks5kqMIfJ8x17O0A,koYpHlWzpk67kokIaNid1g?mode=read&tenantId=d431d158-6074-4832-8783-51ea6f6dd227)
 The group is reconvening to host a panel discussion with local education researchers on their career paths collectively spanning multiple sectors (public, private, non-profit, and philanthropy). Panelists will reflect on their journeys, the local landscape, challenges researchers of color face navigating white spaces, innovation in the areas of data science and quantitative research as well as relationship-centered approaches for impact. 
 
 ***
